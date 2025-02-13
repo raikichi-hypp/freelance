@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+h1, h2 {
+    color: #333;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    margin: 5px 0;
+}
