@@ -4,14 +4,14 @@ body {
     max-width: 800px;
     margin: auto;
     padding: 20px;
-    background-image: url('images/pizza_bg.jpg');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('images/pizza_bg.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
 }
 h1, h2 {
     color: #fff;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.5);
     padding: 10px;
 }
 nav ul {
